@@ -1,0 +1,29 @@
+{
+  "name": "sky.db",
+  "version": "0.0.1",
+  "description": "🌌 sky.db - The Little Database That Could! 🚀 - Looking for a simple, lightweight, and beginner-friendly way to handle your data in Node.js? Look no further! sky.db is your go-to mini-database, designed to make data storage a breeze. Whether you're building a small app or just experimenting with data models, sky.db has your back with support for strings, numbers, dates, and booleans. With its easy setup and intuitive API, you'll be saving and querying data in no time. Let's take your data to the sky and beyond! 🌟💖",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "Database",
+    "Easy-to-use",
+    "Json Db",
+    "Unique models"
+  ],
+  "author": "i._.become_a_devil",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Darknessking13/sky.db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Darknessking13/sky.db/issues"
+  },
+  "homepage": "https://github.com/Darknessking13/sky.db#readme",
+  "social": {
+    "github": "https://github.com/Darknessking13",
+    "discord": "https://discord.com/users/1083342294951927881"
+  }
+}

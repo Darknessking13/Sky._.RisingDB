@@ -1,27 +1,29 @@
 {
-  "name": "sky.db",
-  "version": "0.0.1",
-  "description": "🌌 sky.db - The Little Database That Could! 🚀 - Looking for a simple, lightweight, and beginner-friendly way to handle your data in Node.js? Look no further! sky.db is your go-to mini-database, designed to make data storage a breeze. Whether you're building a small app or just experimenting with data models, sky.db has your back with support for strings, numbers, dates, and booleans. With its easy setup and intuitive API, you'll be saving and querying data in no time. Let's take your data to the sky and beyond! 🌟💖",
+  "name": "skyrisingdb",
+  "version": "0.0.2",
+  "description": "🌌 Sky._.RisingDB - Light Up Your Data! 🚀 Sky._.RisingDB is a simple, lightweight, and beginner-friendly database for Node.js. Inspired by the beauty of auroras, it's designed to make data storage effortless. Whether you're building a small app or experimenting with data models, AuroraDB has you covered with support for strings, numbers, dates, and booleans. With easy setup and an intuitive API, let AuroraDB bring clarity and elegance to your data storage! 🌟💖",
   "main": "src/index.js",
   "scripts": {
-    "test": "node ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "Database",
     "Easy-to-use",
-    "Json Db",
-    "Unique models"
+    "JSON DB",
+    "Aurora",
+    "Data models",
+    "Lightweight"
   ],
   "author": "i._.become_a_devil",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Darknessking13/sky.db.git"
+    "url": "https://github.com/Darknessking13/Sky._.RisingDB"
   },
   "bugs": {
-    "url": "https://github.com/Darknessking13/sky.db/issues"
+    "url": "https://github.com/Darknessking13/Sky._.RisingDB/issues"
   },
-  "homepage": "https://github.com/Darknessking13/sky.db#readme",
+  "homepage": "https://github.com/Darknessking13/Sky._.RisingDB/#readme",
   "social": {
     "github": "https://github.com/Darknessking13",
     "discord": "https://discord.com/users/1083342294951927881"

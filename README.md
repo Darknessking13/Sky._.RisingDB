@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<div align="center">🌌 sky.db - The Little Database That Could! 🚀</div>
+<div align="center">🌌 Sky._.RisingDB - The Little Database That Could! 🚀</div>
 
 # Owner
 * Discord: [! Ｄᴇᴠɪʟɪѕʜ ｃʜʀᴏɴɪᴄʟᴇѕ](https://discord.com/users/1083342294951927881)
@@ -29,17 +29,17 @@
 ## Install
 ```
 
-$ npm install sky.db@latest 
-$ yarn add sky.db@latest 
-$ pnpm add sky.db@latest
+$ npm install Sky._.RisingDB@latest 
+$ yarn add Sky._.RisingDB@latest 
+$ pnpm add Sky._.RisingDB@latest
 
 ```
 
 <h2>Getting Started</h2>
 
-To use `sky.db`, simply require the package and define your data models using the `defineModel` function. Here's an example:
+To use `Sky._.RisingDB`, simply require the package and define your data models using the `defineModel` function. Here's an example:
 ```javascript
-const skydb = require('sky.db');
+const skydb = require('Sky._.RisingDB');
 const User = skydb.defineModel('./model');
 
 // Create and save a new user
@@ -58,19 +58,19 @@ console.log('Active Users:', activeUsers);
 ```
 
 <h2>Sky Db info</h2>
-sky.db supports the following data types:
+Sky._.RisingDB supports the following data types:
 
 - String: A string value, such as a name or description.
 - Number: A numeric value, such as an age or score.
 - Date: A date value, such as a birthdate or created date.
 - Boolean: A boolean value, such as a flag or status.
 
-sky.db supports additional options:
+Sky._.RisingDB supports additional options:
 
 - default: Define default value 
 - required: Define using true or false
 
-sky.db saving, querying:
+Sky._.RisingDB saving, querying:
 
 Save data in model
 ```

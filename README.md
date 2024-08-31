@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <a href="https://www.npmjs.com/package/sky.db">
-    <img src="https://badgen.now.sh/npm/v/sky.db" alt="version" />
+  <a href="https://www.npmjs.com/package/skyrisingdb">
+    <img src="https://badgen.now.sh/npm/v/skyrisingdb" alt="version" />
   </a>
-  <a href="https://www.npmjs.com/package/sky.db">
-    <img src="https://badgen.now.sh/npm/dm/sky.db" alt="downloads" />
+  <a href="https://www.npmjs.com/package/skyrisingdb">
+    <img src="https://badgen.now.sh/npm/dm/skyrisingdb" alt="downloads" />
   </a>
-  <a href="https://packagephobia.now.sh/result?p=sky.db">
-    <img src="https://packagephobia.now.sh/badge?p=sky.db" alt="install size" />
+  <a href="https://packagephobia.now.sh/result?p=skyrisingdb">
+    <img src="https://packagephobia.now.sh/badge?p=skyrisingdb" alt="install size" />
   </a>
 </div>
 
@@ -29,9 +29,9 @@
 ## Install
 ```
 
-$ npm install Sky._.RisingDB@latest 
-$ yarn add Sky._.RisingDB@latest 
-$ pnpm add Sky._.RisingDB@latest
+$ npm install skyrisingdb@latest 
+$ yarn add skyrisingdb@latest 
+$ pnpm add skyrisingdb@latest
 
 ```
 
@@ -39,7 +39,7 @@ $ pnpm add Sky._.RisingDB@latest
 
 To use `Sky._.RisingDB`, simply require the package and define your data models using the `defineModel` function. Here's an example:
 ```javascript
-const skydb = require('Sky._.RisingDB');
+const skydb = require('skyrisingdb');
 const User = skydb.defineModel('./model');
 
 // Create and save a new user
@@ -85,7 +85,7 @@ skydb.save(user1); // Save to default location
 ```
 querying in model:
 ```javascript 
-const skydb = require('sky.db');
+const skydb = require('skyrisingdb');
 const User = skydb.defineModel('./model');
 
 
